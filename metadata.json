@@ -1,0 +1,8 @@
+{
+  "name": "Gourmet Express - Đặt Món Thông Minh",
+  "description": "Ứng dụng đặt món tại bàn với thực đơn phong phú và tích hợp trí tuệ nhân tạo Gemini để hỗ trợ người dùng.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
